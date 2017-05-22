@@ -57,7 +57,7 @@ selected = true
 #url_project = ""
 #url_slides = ""
 #url_video = ""
-url_pdf_local = "2017/emt-poster-1.pdf"
+#url_pdf_local = "2017/emt-poster-1.pdf"
 
 # Optional image to display on the project page - send me the image, I will put it where it belongs
 # Otherwise assigned universal banner
