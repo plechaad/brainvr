@@ -13,7 +13,7 @@ image_preview = "projects/thumbs/ocd-thumb.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["psychologie", "OCD", "inhibice"]
+tags = ["disorder"]
 
 # Does the project detail page use math formatting?
 math = false

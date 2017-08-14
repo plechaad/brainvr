@@ -41,4 +41,8 @@ view = 1
   name = "Rehabilitace"
   tag = ".rehabilitation"
 
+[[filter]]
+  name = "Duševní onemocnění"
+  tag = ".disorder"
+
 +++
