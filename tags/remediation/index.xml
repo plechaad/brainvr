@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remediation on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/remediation/</link>
+    <description>Recent content in Remediation on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/remediation/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vývoj tréninkových úloh ve virtuálním prostředí</title>
+      <link>http://brainvr.cz/project/vr-remediace/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vr-remediace/</guid>
+      <description>&lt;p&gt;Skupina Virtuální realita v neurovědách se zaměřuje na vývoj úloh určených k remediaci kognitivních funkcí se specifickým důrazem na paměť. Úlohy jsou vytvářeny v ekologicky validním prostředí se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.&lt;/p&gt;
+
+&lt;p&gt;V současné chvíli skupina vyvinula paměťovou úlohu nákupu ve virtuálním supermarketu. V prvním kroku jsme úlohu otestovali v její diagnostické podobě u skupiny chronických pacientů se schizofrenií a jejich výkon porovnali se skupinou zdravých dobrovolníků.&lt;/p&gt;
+
+&lt;p&gt;Nyní směřujeme k otestování této metody u dalších diagnostických skupin, jako jsou pacienti s Alzheimerovou chorobou, a u zdravé stárnoucí populace za účelem vytvoření norem úlohy. Rovněž máme na programu ověření efektivity a využitelnosti remediační verze metody.&lt;/p&gt;
+
+&lt;p&gt;Mimo trénink kognitivních funkcí, se také v nejbližší době zaměříme na porovnání úlohy prezentované na monitoru počítače ovládané pomocí myši a klávesnice a více imerzní verze úlohy, která bude využívat headset pro rozbrazení virtuální reality.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/VR-remediace/supermarket_01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stávají metoda nám umožňuje se zaměřit na paměťové strategie využité během úlohy (ať už prostřednictvím rozhovoru, či na základě analýzy trajektorie). Mnemické strategie hrají zásadní roli v normálním fungování paměti, jejich zkoumání je proto významné pro návazný trénink kognitivních funkcí.
+V budoucnu bychom rádi stávající úlohu rozšířily z prostoru potravin na celé obchodní centrum a zaměřili se tak i na další kognitivní funkce, zejména exekutivu a prostorovou orientaci.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/VR-remediace/supermarket_02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;V následujícím roce se náš tým soustředí na vývoj dalších remediačních úloh ve virtuální realitě. Rádi bychom komplexně pokryli oblast paměti a zaměřili se zejména na paměť verbální i vizuální a paměť prostorovou. Tyto úlohy by měli být posléze využity jako komplexní remediační baterie.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
