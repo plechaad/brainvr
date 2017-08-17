@@ -9,7 +9,7 @@ title = "Vývoj tréninkových úloh ve virtuálním prostředí"
 summary = "Vývoj úloh k tréninku paměti ve virtuální realitě"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/thumbs/.jpg"
+image_preview = "projects/thumbs/supermarket.jpg"
 
 tags = ["disorder", "remediation", "cognition", "VR"]
 
