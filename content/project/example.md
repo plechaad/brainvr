@@ -21,7 +21,7 @@ summary = "Projekt zkoumajcí dopady každodenního používání moderních tec
 # NEEDS to be in square format - under 200kB, optimally 1024*1024
 image_preview = "projects/thumbs/HCENAT-thumb.jpg"
 
-# Tags: can be used for filtering projects. 
+# Tags: can be used for filtering projects. Without czech symbols, without special symbols. use - for separation of words, no SPACE
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["VR", "Eyetracker", "fMRI"]
 
