@@ -13,6 +13,9 @@ title = "Episodic-like memory tested in virtual environment"
 # abstract
 abstract = "Episodic memory is a neurocognitive system – an ability to recall unique past events based on knowledge of \"what\", \"when\" and \"where\". These three parameters describe an individual characteristic of the event and form a model of episodic like memory (ELM), which is also often tested in animals. To study the ELM concept in humans, we designed in our pilot experiment the ELM task in two virtual environments and tested them in healthy volunteers."
 
+# SHORTER version of abstract for selected feature
+#abstract_short = ""
+
 # List of authors
 # List is designated by the [], don't forget ""(quotes) and ,(commas) between names
 authors = ["Oravcova I.", "Fajnerova I." , "Hejtmanek L.", "Plechata A.", "Vlcek K." , "Nekovarova T."]
