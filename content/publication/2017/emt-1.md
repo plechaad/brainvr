@@ -11,7 +11,7 @@ math = true
 publication_types = ["1"]
 publication = "In **, IEEE."
 publication_short = "In **"
-selected = true
+selected = false
 
 url_pdf_local = "2017/emt-poster-1.pdf"
 
@@ -19,5 +19,4 @@ url_pdf_local = "2017/emt-poster-1.pdf"
 [header]
 image = ""
 caption = ""
-
 +++
