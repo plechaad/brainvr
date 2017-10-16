@@ -11,6 +11,62 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>EPIZODICKÁ PAMĚŤ U DĚTÍ</title>
+      <link>http://brainvr.cz/project/emch/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/emch/</guid>
+      <description>&lt;p&gt;Zajímá nás také vývoj epizodické paměti, proto studie přizpůsobujeme dětem v předškolním věku a také adolescentům. Cílem této studie je porovnat vývoj jednotlivých komponent paměti epizodického typu; studovat epizodickou paměť u dětí ve srovnání s ostatními typy paměti.&lt;/p&gt;
+
+&lt;p&gt;Krátká studie byla provedena u dětí v předškolním věku, kde jsme úlohu sbírání předmětů provedli v 2D, 3D prostoru a také v reálném prostředí mateřské školy. Behaviorální data naznačují, že stejně jako u studie výše, je i u dětí rozdíl v náročnosti jednotlivých komponent epizodické paměti.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEUROBIOLOGIE EPIZODICKÉ PAMĚTI</title>
+      <link>http://brainvr.cz/project/nem/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/nem/</guid>
+      <description>&lt;p&gt;Skupina VR v neurovědách se zaměřuje také na vývoj úloh zaměřených na epizodickou paměť, která nám umožňuje zpětně si vybavit konkrétní událost z minulosti.&lt;/p&gt;
+
+&lt;p&gt;Na studium mechanizmů epizodické paměti se často využívá zjednodušený model, tzv. paměť epizodického typu. Podle tohoto modelu je každá vzpomínka uložená v určitém kontextuálním rámci, charakterizovaném třemi základními podmínkami: identitou události (‚Co se stalo?‘), časem (,Kdy se to stalo?‘) a prostorovou složkou (,Kde se to stalo?‘).&lt;/p&gt;
+
+&lt;p&gt;Úloha využívá jednoduchý princip sbírání objektů (viz obrázek níže). Úkolem osoby je nejdříve posbírat několik objektů v daném prostředí. K jednotlivým objektům je osoba navigovaná šipkou. Následně je úkolem osoby si o krátkém oddálení vybavit, kde a kdy objekt sebral a vrátit je na původní pozice v původním pořadí.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/NEM/nem_01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Studie se zabývá neurobiologickým substrátem jednotlivých komponent paměti epizodického typu za pomocí funkční magnetické rezonance u zdravých dobrovolníku, za využití ekologicky validních úloh vytvořených v prostředí virtuální reality.&lt;/p&gt;
+
+&lt;p&gt;Výsledky dat získaných prostřednictvím fMRI úlohy ukazují, že kromě společného neuronálního substrátu epizodické paměti, existují do jisté míry odlišné mozkové struktury zodpovědné za vybavení jednotlivých komponent modelu paměti epizodického typu.&lt;/p&gt;
+
+&lt;p&gt;Behaviorální data naznačují, že náročnost vybavení jednotlivých komponent není rovnocenná. Doplňující analýza využívající novou metodu parcelace mozku na jednotlivé struktury (viz obrázek níže), s následným stanovením objemu hipokampu a jeho podoblastí (viz obr. 1) ukázala, že objem hippokampu významně koreluje len s úspěšností ve vybavení podmínky ´Co? ´ - tzn. identity události.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/NEM/nem_02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REMEDIACE EPIZODICKÉ PAMĚTI</title>
+      <link>http://brainvr.cz/project/rem/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/rem/</guid>
+      <description>&lt;p&gt;Vytváříme také varianty úlohy určené k remediaci epizodické paměti. Úlohy jsou vytvářeny v ekologicky validním prostředí (kancelář - A1/B1, dům - A2/B2, město) se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stávající metoda nám umožňuje se zaměřit na paměťové strategie využité během úlohy (ať už prostřednictvím rozhovoru, či na základě analýzy trajektorie). Mnemotechnické strategie hrají zásadní roli v normálním fungování paměti, jejich zkoumání je proto významné pro návazný trénink kognitivních funkcí.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_03.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;V budoucnu bychom rádi stávající úlohu aplikovaly také do jiného typů prostředí, zejména do prostoru celého města a zapojily tak do tréninku i další kognitivní funkce, zejména exekutivu a prostorovou orientaci.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OCD studie</title>
       <link>http://brainvr.cz/project/ocd/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
@@ -161,48 +217,6 @@ Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
       <description>&lt;p&gt;Do skupiny jsem se dostal jako stážista při studiu psychologie v létě 2015. Začal jsem se podílet na administraci a vyhodnocování neuropsychologických testových baterií při výzkumu OCD a schizofrenie.&lt;/p&gt;
 
 &lt;p&gt;Mé hlavní výzkumné aktivity leží mimo NÚDZ a jsou spojeny s výzkumem léčby roztroušené sklérozy na 1. lékařské fakultě UK. Mám ale poměrně flexibilní harmonogram a práce ve skupině virtuální reality mě zajímá a baví, v NÚDZu tak ve skupině nadále pomáhám s jakoukoliv psychologickou i nepsychologickou činností, kterou zrovna ostatní nestíhají zařídit nebo dokončit. Je třeba někoho vyšetřit a všichni ostatní mají zrovna plný diář? Pak to budu pravděpodobně já, koho na vyšetření potkáte.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://brainvr.cz/member/vaclav/</link>
-      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/member/vaclav/</guid>
-      <description>&lt;p&gt;Václav Sahula je game designer ve společnosti Dreadlocks a studentem oboru Nová media na Univerzitě Karlově v Praze. V rámci Národního ústavu duševního zdraví se podílí na vývoji úloh ve virtuální realitě jako Unity developer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HCENAT</title>
-      <link>http://brainvr.cz/project/hcenat-vr/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/project/hcenat-vr/</guid>
-      <description>&lt;p&gt;Projekt zahrnoval testování změn kognitivních funkcí v závoslosti na používání navigačních technologií v každodenním životě. Participanti měli za úkol dokázat své navigační schopnost v co nejpřirozenějším prostředí, zatímco jsme pozorovali jejich oční pohyby, aktivace mozkových struktur a dlouhodobě sledovali dopad na kognitivní funkce pomocí baterie neuropsychologických testů.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/HCENAT/hcenat-map.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;V rámci projektu jsme vybudovali rozsáhlé město s 42 orientačními body. Celkem nás v Klecanech navštívilo přes 60 participantů, kteří v naší péči strávili celé dopoledne či odpoledne. Celkem každý absolvoval 62 navigačních úkolů, část z nich u zařízení na sledování očních pohybů, část z nich pak v magnetické rezonanci.&lt;/p&gt;
-
-&lt;p&gt;Výsledky ukazují na závislost mezi dobou, po kterou se lidé soustředí na navigační pomůcky (mapa/šipka), a kvalitou mentální mapy, kterou si utvoří. Jedním ze zajímavých závěrů bylo, že čím více lidé sledují GPS či jiný navigační ukazatel,tím pomalejší a horší trasy vykazují při úkolech, kde se mají orientovat sami.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/HCENAT/hcenat-arrow.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://brainvr.cz/member/adela/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/member/adela/</guid>
-      <description>&lt;p&gt;Do skupiny jsem se zapojila v srpnu roku 2016. Mým hlavním zájmem bylo vytvoření ekologicky validní úlohy ve virtuální realitě určené k tréninku kognitivního deficitu u pacientů se schizofrenií. Za pomoci Václava Sahuly a dalších členů týmu byla vytvořena simulace nákupu ve virtuálním supermarketu. Následovaly dvě pilotní studie, ve kterých jsem úlohu testovala u zdravých dobrovolníků v její diagnostické obdobě.&lt;/p&gt;
-
-&lt;p&gt;V současné chvíli testuji úlohu u pacientů se schizofrenií, a to jak v její diagnostické, tak remediační variantě. Data budu dále porovnávat s výsledky srovnávací skupiny zdravých dobrovolníků.&lt;/p&gt;
-
-&lt;p&gt;Nyní je mým největším zájmem získat data od co nejvyššího počtu pacientů a následnou analýzou završit svou diplomovou práci. V Národním ústavu duševního zdraví bych se ráda dále věnovala kognici a virtuální realitě v rámci PhD studia. Kromě virtuální reality se věnuji psychometrii a tvorbě osobnostních dotazníků a výkonových testů.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Episodic Memory on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/episodic-memory/</link>
+    <description>Recent content in Episodic Memory on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/episodic-memory/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EPIZODICKÁ PAMĚŤ U DĚTÍ</title>
+      <link>http://brainvr.cz/project/emch/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/emch/</guid>
+      <description>&lt;p&gt;Zajímá nás také vývoj epizodické paměti, proto studie přizpůsobujeme dětem v předškolním věku a také adolescentům. Cílem této studie je porovnat vývoj jednotlivých komponent paměti epizodického typu; studovat epizodickou paměť u dětí ve srovnání s ostatními typy paměti.&lt;/p&gt;
+
+&lt;p&gt;Krátká studie byla provedena u dětí v předškolním věku, kde jsme úlohu sbírání předmětů provedli v 2D, 3D prostoru a také v reálném prostředí mateřské školy. Behaviorální data naznačují, že stejně jako u studie výše, je i u dětí rozdíl v náročnosti jednotlivých komponent epizodické paměti.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEUROBIOLOGIE EPIZODICKÉ PAMĚTI</title>
+      <link>http://brainvr.cz/project/nem/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/nem/</guid>
+      <description>&lt;p&gt;Skupina VR v neurovědách se zaměřuje také na vývoj úloh zaměřených na epizodickou paměť, která nám umožňuje zpětně si vybavit konkrétní událost z minulosti.&lt;/p&gt;
+
+&lt;p&gt;Na studium mechanizmů epizodické paměti se často využívá zjednodušený model, tzv. paměť epizodického typu. Podle tohoto modelu je každá vzpomínka uložená v určitém kontextuálním rámci, charakterizovaném třemi základními podmínkami: identitou události (‚Co se stalo?‘), časem (,Kdy se to stalo?‘) a prostorovou složkou (,Kde se to stalo?‘).&lt;/p&gt;
+
+&lt;p&gt;Úloha využívá jednoduchý princip sbírání objektů (viz obrázek níže). Úkolem osoby je nejdříve posbírat několik objektů v daném prostředí. K jednotlivým objektům je osoba navigovaná šipkou. Následně je úkolem osoby si o krátkém oddálení vybavit, kde a kdy objekt sebral a vrátit je na původní pozice v původním pořadí.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/NEM/nem_01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Studie se zabývá neurobiologickým substrátem jednotlivých komponent paměti epizodického typu za pomocí funkční magnetické rezonance u zdravých dobrovolníku, za využití ekologicky validních úloh vytvořených v prostředí virtuální reality.&lt;/p&gt;
+
+&lt;p&gt;Výsledky dat získaných prostřednictvím fMRI úlohy ukazují, že kromě společného neuronálního substrátu epizodické paměti, existují do jisté míry odlišné mozkové struktury zodpovědné za vybavení jednotlivých komponent modelu paměti epizodického typu.&lt;/p&gt;
+
+&lt;p&gt;Behaviorální data naznačují, že náročnost vybavení jednotlivých komponent není rovnocenná. Doplňující analýza využívající novou metodu parcelace mozku na jednotlivé struktury (viz obrázek níže), s následným stanovením objemu hipokampu a jeho podoblastí (viz obr. 1) ukázala, že objem hippokampu významně koreluje len s úspěšností ve vybavení podmínky ´Co? ´ - tzn. identity události.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/NEM/nem_02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REMEDIACE EPIZODICKÉ PAMĚTI</title>
+      <link>http://brainvr.cz/project/rem/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/rem/</guid>
+      <description>&lt;p&gt;Vytváříme také varianty úlohy určené k remediaci epizodické paměti. Úlohy jsou vytvářeny v ekologicky validním prostředí (kancelář - A1/B1, dům - A2/B2, město) se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stávající metoda nám umožňuje se zaměřit na paměťové strategie využité během úlohy (ať už prostřednictvím rozhovoru, či na základě analýzy trajektorie). Mnemotechnické strategie hrají zásadní roli v normálním fungování paměti, jejich zkoumání je proto významné pro návazný trénink kognitivních funkcí.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_03.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;V budoucnu bychom rádi stávající úlohu aplikovaly také do jiného typů prostředí, zejména do prostoru celého města a zapojily tak do tréninku i další kognitivní funkce, zejména exekutivu a prostorovou orientaci.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

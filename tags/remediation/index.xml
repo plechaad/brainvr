@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/remediation/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>REMEDIACE EPIZODICKÉ PAMĚTI</title>
+      <link>http://brainvr.cz/project/rem/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/rem/</guid>
+      <description>&lt;p&gt;Vytváříme také varianty úlohy určené k remediaci epizodické paměti. Úlohy jsou vytvářeny v ekologicky validním prostředí (kancelář - A1/B1, dům - A2/B2, město) se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stávající metoda nám umožňuje se zaměřit na paměťové strategie využité během úlohy (ať už prostřednictvím rozhovoru, či na základě analýzy trajektorie). Mnemotechnické strategie hrají zásadní roli v normálním fungování paměti, jejich zkoumání je proto významné pro návazný trénink kognitivních funkcí.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://brainvr.cz/img/projects/specs/REM/rem_03.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;V budoucnu bychom rádi stávající úlohu aplikovaly také do jiného typů prostředí, zejména do prostoru celého města a zapojily tak do tréninku i další kognitivní funkce, zejména exekutivu a prostorovou orientaci.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Vývoj tréninkových úloh ve virtuálním prostředí</title>
