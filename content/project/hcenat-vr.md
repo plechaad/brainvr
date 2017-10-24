@@ -20,7 +20,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "projects/banners/HCENAT-banner.jpg"
+image = "projects/banners/hcenat.jpg"
 caption = ""
 
 [publications]

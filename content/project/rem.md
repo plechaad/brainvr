@@ -20,7 +20,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "projects/banners/rem_default.png"
+image = "projects/banners/rem.jpg"
 caption = ""
 
 [publications]
