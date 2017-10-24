@@ -9,7 +9,7 @@ title = "NEUROBIOLOGIE EPIZODICKÉ PAMĚTI"
 summary = "Studie zabývající se neuronálním substrátem epizodické paměti."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/thumbs/nem_thumb.png"
+image_preview = "projects/thumbs/nem_thumb.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -20,7 +20,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "projects/banners/nem_default.png"
+image = "projects/banners/nem.jpg"
 caption = ""
 
 [publications]

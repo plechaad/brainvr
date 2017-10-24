@@ -4,6 +4,8 @@ copyright = "&copy; 2016 Lukáš hejtmy Hejtmánek"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+preserveTaxonomyNames = true
+paginate = 10
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -14,6 +16,8 @@ googleAnalytics = "UA-93051100-2"
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "cs"
 defaultContentLanguageInSubdir = false
+[outputs]
+  home = [ "HTML", "CSS" ]
 
 [blackfriday]
   hrefTargetBlank = true
@@ -21,8 +25,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Virtuální realita v neurovědách"
   #role = "Oddělení VP3"
-  organization = "Národní ústav duševního zdraví"
-  organization_url = "www.nudz.cz"
+  organizations = [ { name =  "Národní ústav duševního zdraví", url = "www.nudz.cz" } ]
   avatar = "portrait.png"
   email = "Iveta.Fajnerova@nudz.cz"
   address = "Topolová 748, Klecany"
@@ -41,6 +44,9 @@ defaultContentLanguageInSubdir = false
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
   math = false
+  color_theme = "default"
+  font = "default"
+
 
   # Highlight.js options
   #   highlight
@@ -125,8 +131,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/nudz"
-
+    link = "//github.com/brainvr"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -154,14 +159,9 @@ weight = 3
   weight = 4
 
 [[menu.main]]
-  name = "Příspěvky"
+  name = "Blog"
   url = "#posts"
   weight = 5
-
-[[menu.main]]
-  name = "Výuka"
-  url = "#teaching"
-  weight = 6
 
 [[menu.main]]
   name = "Kontakt"
