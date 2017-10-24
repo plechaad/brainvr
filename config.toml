@@ -1,4 +1,4 @@
-baseurl = "http://brainvr.cz"
+baseurl = "http://brainvr.cz/"
 title = "Virtuální realita v neurovědách"
 copyright = "&copy; 2016 Lukáš hejtmy Hejtmánek"
 theme = "academic"
