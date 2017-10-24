@@ -9,7 +9,7 @@ title = "EPIZODICKÁ PAMĚŤ U DĚTÍ"
 summary = "Krátká behaviorální studie epizodické paměti u dětí."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/thumbs/emch_thumb.png"
+image_preview = "projects/thumbs/emch_thumb.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -20,7 +20,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "projects/banners/emch_default.png"
+image = "projects/banners/emch_default.jpg"
 caption = ""
 
 [publications]

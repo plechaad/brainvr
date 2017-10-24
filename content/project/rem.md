@@ -9,7 +9,7 @@ title = "REMEDIACE EPIZODICKÉ PAMĚTI"
 summary = "Vytváření a studie úloh určených k remediaci epizodické paměti."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/thumbs/rem_thumb.png"
+image_preview = "projects/thumbs/rem_thumb.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
