@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
+    
       <loc>http://brainvr.cz/project/emch/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     </url>
@@ -12,6 +13,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/project/nem/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     </url>
@@ -20,6 +22,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/project/rem/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     </url>
@@ -28,6 +31,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/project/ocd/</loc>
       <lastmod>2017-08-11T00:00:00+00:00</lastmod>
     </url>
@@ -36,6 +40,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/project/vr-remediace/</loc>
       <lastmod>2017-08-11T00:00:00+00:00</lastmod>
     </url>
@@ -44,6 +49,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2017/2017_plechata_fajnerova_hejtmanek_development_supermarket/</loc>
       <lastmod>2017-06-19T00:00:00+00:00</lastmod>
     </url>
@@ -52,6 +58,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2017/2017_fajnerova_oravcova_plechata_episodic_memory_task_remediation/</loc>
       <lastmod>2017-06-19T00:00:00+00:00</lastmod>
     </url>
@@ -60,6 +67,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2017/emt-1/</loc>
       <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -68,6 +76,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2017/2017_oravcova_fajnerova_hejtmanek_when_what/</loc>
       <lastmod>2017-04-23T00:00:00+00:00</lastmod>
     </url>
@@ -76,6 +85,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2017/2017_plechata_fajnerova_hejtmanek_phd_existence/</loc>
       <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     </url>
@@ -84,6 +94,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2017/2017_oravcova_fajnerova_hejtmanek_episodic-like_memory/</loc>
       <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     </url>
@@ -92,6 +103,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -100,6 +112,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -108,6 +121,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -116,6 +130,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -124,6 +139,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -132,6 +148,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2016/2016_fajnerova_hejtmanek_rydlo/</loc>
       <lastmod>2016-09-20T00:00:00+00:00</lastmod>
     </url>
@@ -140,6 +157,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/member/anna/</loc>
       <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     </url>
@@ -148,6 +166,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/member/jirka/</loc>
       <lastmod>2016-07-10T00:00:00+00:00</lastmod>
     </url>
@@ -156,6 +175,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/member/vaclav/</loc>
       <lastmod>2016-05-10T00:00:00+00:00</lastmod>
     </url>
@@ -164,6 +184,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/project/hcenat-vr/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -172,6 +193,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/member/adela/</loc>
       <lastmod>2016-04-10T00:00:00+00:00</lastmod>
     </url>
@@ -180,6 +202,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/member/ivana/</loc>
       <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     </url>
@@ -188,6 +211,10 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/member/hejtmy/" hreflang="cs"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/member/hejtmy/" hreflang="en"/>
+    
       <loc>http://brainvr.cz/member/hejtmy/</loc>
       <lastmod>2015-02-10T00:00:00+00:00</lastmod>
     </url>
@@ -196,6 +223,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/member/iveta/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -204,6 +232,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2015/2015_fajnerova_rodriguez_spaniel_spatial_navigation/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -212,6 +241,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication/2014/2014_fajnerova_rodriguez_levcik_virtual_reality_task/</loc>
       <lastmod>2014-05-27T00:00:00+00:00</lastmod>
     </url>
@@ -220,6 +250,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/</loc>
       <lastmod>2016-08-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -229,6 +260,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication_types/0/</loc>
       <lastmod>2017-04-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -238,6 +270,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication_types/1/</loc>
       <lastmod>2017-06-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -247,6 +280,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/publication_types/2/</loc>
       <lastmod>2014-05-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -256,6 +290,10 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/categories/" hreflang="cs"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/categories/" hreflang="en"/>
+    
       <loc>http://brainvr.cz/categories/</loc>
       <priority>0</priority>
     </url>
@@ -264,6 +302,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/children/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -273,6 +312,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/cognition/</loc>
       <lastmod>2017-08-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -282,6 +322,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/disorder/</loc>
       <lastmod>2017-08-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -291,6 +332,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/episodic-memory/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -300,6 +342,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/eyetracker/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -309,6 +352,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/fmri/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -318,6 +362,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/game-designer/</loc>
       <lastmod>2016-05-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -327,6 +372,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/intern/</loc>
       <lastmod>2016-04-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -336,6 +382,10 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/member/" hreflang="cs"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/member/" hreflang="en"/>
+    
       <loc>http://brainvr.cz/member/</loc>
       <lastmod>2016-08-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -345,6 +395,10 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/tags/programmer/" hreflang="cs"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/tags/programmer/" hreflang="en"/>
+    
       <loc>http://brainvr.cz/tags/programmer/</loc>
       <lastmod>2016-05-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -354,6 +408,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/project/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -363,6 +418,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/psychologist/</loc>
       <lastmod>2016-04-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -372,6 +428,10 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/publication_types/" hreflang="cs"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/publication_types/" hreflang="en"/>
+    
       <loc>http://brainvr.cz/publication_types/</loc>
       <lastmod>2017-04-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -381,6 +441,7 @@
     
     
     <url>
+    
       <loc>http://brainvr.cz/tags/remediation/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -390,6 +451,10 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/tags/" hreflang="cs"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/tags/" hreflang="en"/>
+    
       <loc>http://brainvr.cz/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -399,8 +464,9 @@
     
     
     <url>
-      <loc>http://brainvr.cz/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    
+      <loc>http://brainvr.cz/tags/vr/</loc>
+      <lastmod>2017-08-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -408,8 +474,12 @@
     
     
     <url>
-      <loc>http://brainvr.cz/tags/vr/</loc>
-      <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/" hreflang="cs"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/" hreflang="en"/>
+    
+      <loc>http://brainvr.cz/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

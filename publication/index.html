@@ -6,27 +6,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.30-DEV" />
+  <meta name="generator" content="Hugo 0.31-DEV" />
   <meta name="author" content="Virtuální realita v neurovědách">
   
 
   
   
   
+  
     
   
   
-  <link rel="stylesheet" href="/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/css/academicons.min.css">
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
-  <link rel="stylesheet" href="/css/hugo-academic.css">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+
+
+  
+
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
   
   <link rel="stylesheet" href="/css/mod-academic.css">
   
 
-  <link rel="alternate" href="http://brainvr.cz/publication/index.xml" type="application/rss+xml" title="Virtuální realita v neurovědách">
-  <link rel="feed" href="http://brainvr.cz/publication/index.xml" type="application/rss+xml" title="Virtuální realita v neurovědách">
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-93051100-2', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+
+  
 
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
@@ -45,6 +68,7 @@
 
     
     <div class="navbar-header">
+      
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
               data-target=".navbar-collapse" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -52,6 +76,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      
       <a class="navbar-brand" href="/">Virtuální realita v neurovědách</a>
     </div>
 
@@ -115,19 +140,7 @@
         <li class="nav-item">
           <a href="/#posts">
             
-            <span>Příspěvky</span>
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        <li class="nav-item">
-          <a href="/#teaching">
-            
-            <span>Výuka</span>
+            <span>Blog</span>
           </a>
         </li>
 
@@ -145,11 +158,14 @@
 
         
         
+
+        
       </ul>
 
     </div>
   </div>
 </nav>
+
 
 
 
@@ -161,9 +177,40 @@
 
       
 
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+
       <p>
         Filter by type:
-        <select class="pub-filters-select">
+
+        <select class="pub-filters pubtype-select" data-filter-group="pubtype">
           <option value="*">All</option>
           
           <option value=".pubtype-0">
@@ -179,6 +226,28 @@
           </option>
           
         </select>
+
+        <select class="pub-filters" data-filter-group="year">
+          <option value="*">All</option>
+          
+          
+          <option value=".year-2017">
+            2017
+          </option>
+          
+          <option value=".year-2016">
+            2016
+          </option>
+          
+          <option value=".year-2015">
+            2015
+          </option>
+          
+          <option value=".year-2014">
+            2014
+          </option>
+          
+        </select>
       </p>
 
       <div id="container-publications">
@@ -188,10 +257,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-1">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>The Virtual Episodic Memory Task: towards remediation in neuropsychiatric disorders.
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2017/2017_fajnerova_oravcova_plechata_episodic_memory_task_remediation/" itemprop="name">The Virtual Episodic Memory Task: towards remediation in neuropsychiatric disorders.</a>
+  <div itemprop="author">
+    Fajnerova I., Oravcova I., Plechata A., Hejtmanek L., Vlcek K., Sahula V., Nekovarova T.</div>
+  <p>
 
 
 
@@ -212,6 +285,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -220,10 +296,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-1">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>Development of a virtual supermarket shopping taskfor cognitive remediation of memory and executivefunctions in schizophrenia
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2017/2017_plechata_fajnerova_hejtmanek_development_supermarket/" itemprop="name">Development of a virtual supermarket shopping taskfor cognitive remediation of memory and executivefunctions in schizophrenia</a>
+  <div itemprop="author">
+    Plechata A., Fajnerova I., Hejtmanek L., Sahula V.</div>
+  <p>
 
 
 
@@ -244,6 +324,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -252,10 +335,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-1">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>Episodic-like memory tested in virtual environment
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2017/emt-1/" itemprop="name">Episodic-like memory tested in virtual environment</a>
+  <div itemprop="author">
+    Oravcova I., Fajnerova I., Hejtmanek L., Plechata A., Vlcek K., Nekovarova T.</div>
+  <p>
 
 
 
@@ -276,6 +363,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -284,10 +374,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-0">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>WHAT, WHEN AND WHERE IT HAPPENED? A virtual reality study.
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-0 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2017/2017_oravcova_fajnerova_hejtmanek_when_what/" itemprop="name">WHAT, WHEN AND WHERE IT HAPPENED? A virtual reality study.</a>
+  <div itemprop="author">
+    Oravcova I., Fajnerova I., Hejtmanek L., Sahula V., Plechata A., Vlcek K., Nekovarova T.</div>
+  <p>
 
 
 
@@ -308,6 +402,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -316,10 +413,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-1">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>Vývoj úlohy ve virtuální realitě určené k remediaci deficitu paměťových a exekutivních funkcí u pacientů s neuropsychiatrickým onemocněním
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2017/2017_plechata_fajnerova_hejtmanek_phd_existence/" itemprop="name">Vývoj úlohy ve virtuální realitě určené k remediaci deficitu paměťových a exekutivních funkcí u pacientů s neuropsychiatrickým onemocněním</a>
+  <div itemprop="author">
+    Plechata A., Fajnerova I., Hejtmanek L., Sahula V.</div>
+  <p>
 
 
 
@@ -340,6 +441,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -348,10 +452,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-0">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>Episodic-like memory tested in virtual environment
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-0 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2017/2017_oravcova_fajnerova_hejtmanek_episodic-like_memory/" itemprop="name">Episodic-like memory tested in virtual environment</a>
+  <div itemprop="author">
+    Oravcova I., Fajnerova I., Hejtmanek L., Plechata A., Vlcek K., Nekovarova T.</div>
+  <p>
 
 
 
@@ -372,6 +480,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -380,10 +491,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-1">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>Human cognitive enhancement tested in virtual city environment
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2016">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2016/2016_fajnerova_hejtmanek_rydlo/" itemprop="name">Human cognitive enhancement tested in virtual city environment</a>
+  <div itemprop="author">
+    Fajnerova I., Hejtmanek L., Rydlo H., Motyl J., Oravcova I., Zitka T., Hranicka J., Horacek J., Zackova E.</div>
+  <p>
 
 
 
@@ -404,6 +519,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -412,10 +530,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-1">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>Spatial navigation in virtual reality - from animal models towards schizophrenia Spatial cognition tests based on animal research
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2015">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2015/2015_fajnerova_rodriguez_spaniel_spatial_navigation/" itemprop="name">Spatial navigation in virtual reality - from animal models towards schizophrenia Spatial cognition tests based on animal research</a>
+  <div itemprop="author">
+    Fajnerova I., Rodriguez M., Spaniel F., Horacek J., Vlcek K., Levcik D., Stuchlik A., Brom C.</div>
+  <p>
 
 
 
@@ -436,6 +558,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -444,10 +569,14 @@
           
         
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-2">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>A virtual reality task based on animal research–spatial learning and memory in patients after the first episode of schizophrenia
-          <p>
+        <div class="grid-sizer col-md-12 isotope-item pubtype-2 year-2014">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <a href="http://brainvr.cz/publication/2014/2014_fajnerova_rodriguez_levcik_virtual_reality_task/" itemprop="name">A virtual reality task based on animal research–spatial learning and memory in patients after the first episode of schizophrenia</a>
+  <div itemprop="author">
+    Fajnerova I., Rodriguez M., Levcik, D., Konradova L., Mikolas P., Brom C., Stuchlik A., Vlcek K., Horacek, J.</div>
+  <p>
 
 
 
@@ -468,6 +597,9 @@
 
 
 </p>
+</div>
+
+          
         </div>
 
         
@@ -497,35 +629,21 @@
   </div>
 </footer>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
-    <script src="/js/jquery-1.12.3.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/isotope.pkgd.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js"></script>
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    
     <script src="/js/hugo-academic.js"></script>
-    
-
-    
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-93051100-2', 'auto');
-        ga('send', 'pageview');
-
-         
-        var links = document.querySelectorAll('a');
-        Array.prototype.map.call(links, function(item) {
-            if (item.host != document.location.host) {
-                item.addEventListener('click', function() {
-                    var action = item.getAttribute('data-action') || 'follow';
-                    ga('send', 'event', 'outbound', action, item.href);
-                });
-            }
-        });
-    </script>
     
 
     
