@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://brainvr.cz/post/future-port/</loc>
+      <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://brainvr.cz/project/emch/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     </url>
@@ -373,8 +382,28 @@
     
     <url>
     
+      <loc>http://brainvr.cz/tags/hugo/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://brainvr.cz/tags/intern/</loc>
       <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://brainvr.cz/tags/kognice/</loc>
+      <lastmod>2017-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -442,6 +471,16 @@
     
     <url>
     
+      <loc>http://brainvr.cz/tags/remediace/</loc>
+      <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://brainvr.cz/tags/remediation/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -466,7 +505,7 @@
     <url>
     
       <loc>http://brainvr.cz/tags/vr/</loc>
-      <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+      <lastmod>2017-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
