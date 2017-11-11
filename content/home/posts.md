@@ -13,7 +13,7 @@ widget = "posts"
 weight = 60
 
 # Show posts that contain the following tags. Default to any tags.
-tags = []
+tags = ["hugo"]
 tags_include = []
 tags_exclude = []
 
