@@ -9,7 +9,6 @@ title = "Future Port Prague 2017"
 summary = "Stánek s virtuální realitou na Future Port Prague 2017"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "activity/specs/futureport/utureportthumb.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -17,11 +16,6 @@ tags = ["VR", "remediace", "kognice"]
 
 # Does the project detail page use math formatting?
 math = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "projects/banners/HCENAT-banner.jpg"
-caption = ""
 +++
 
 Skupina Virtuální realita v neurovědách prezentovala své výzkumné projekty v průběhu festivalu a konference Future Port Prague 2017, který je označován za největší přehlídku technologií budoucnosti ve střední Evropě (https://www.futureportprague.com/). 
