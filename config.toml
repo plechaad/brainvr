@@ -16,6 +16,8 @@ googleAnalytics = "UA-93051100-2"
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "cs"
 defaultContentLanguageInSubdir = false
+
+
 [outputs]
   home = [ "HTML", "CSS" ]
 
@@ -33,6 +35,9 @@ defaultContentLanguageInSubdir = false
   phone = ""
   skype = ""
   telegram = ""
+  
+  # Show estimated reading time for posts?
+  reading_time = false
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -159,7 +164,7 @@ weight = 3
   weight = 4
 
 [[menu.main]]
-  name = "Blog"
+  name = "Příspěvky"
   url = "#posts"
   weight = 5
 
