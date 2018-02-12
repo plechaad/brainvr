@@ -1,7 +1,7 @@
 language: go
 
 go:
-    - "1.7.1"
+    - "1.9.4"
 
 env:
   global:
@@ -17,7 +17,7 @@ branches:
 
 before_script:
     - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
-    - go get -u -v github.com/spf13/hugo
+    - go get -v github.com/gohugoio/hugo
 
 install:
   - rm -rf public || exit 0 # cleanup previous run
