@@ -31,3 +31,6 @@ Rovněž bylo zájemcům umožněno nahlédnout do virtuálního supermarketu, u
 
 Propagace v rámci Future Port Prague 2017 byla finančně podpořena Centrem transferu technologií NUDZ (Centre for Technology and Knowledge Transfer NIMH) reg. číslo grantu: CZ.02.2.69/0.0/0.0/16_014/0000656 (vedoucí projektu: RNDr. Karel Valeš, Ph.D.)
 
+![](/img/nudz.png)
+![](/img/activity/futureport/logo_msmt.png)
+![](/img/activity/futureport/logo_eu.png)
