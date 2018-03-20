@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "members/banners/default.png"
+image = "members/banners/default.jpg"
 caption = ""
 
 [[education]]
