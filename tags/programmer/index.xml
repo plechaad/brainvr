@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programmer on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/programmer/</link>
+    <description>Recent content in Programmer on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Tue, 10 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/programmer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/vaclav/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/vaclav/</guid>
+      <description>Václav Sahula je game designer ve společnosti Dreadlocks a studentem oboru Nová media na Univerzitě Karlově v Praze. V rámci Národního ústavu duševního zdraví se podílí na vývoji úloh ve virtuální realitě jako Unity developer.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/hejtmy/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/hejtmy/</guid>
+      <description>Ve skupině jsem začal pracovat v roce 2015. I přes svou psychologickou průpravu jsem začal fungovat jako jeden z programátorů rozsáhlé simulace virtuálního města. Tvorba zabrala takřka rok a ve městě jsme posléze několik měsíců sbírali data od desítek doprovolníků. Mé povinnosti přešly z programování experimentů k programování analýz behaviorálních dat, eyetrackeru a plánování nových projektů.
+V týmu nyní funguji jako neplacená technická podopora, programátor včeho od webů po fMRI synchronizace a ten &amp;ldquo;týpek&amp;rdquo;, co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/iveta/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/iveta/</guid>
+      <description>Vedoucí skupiny Virtuální reality v neurokognitivních vědách vystudovala psychologii a neurobiologii. V NUDZ se věnuje zejména vývoji aplikací ve virtuální realitě a jejich využití při vyšetřování a tréninku kognitivních funkcí, ale také při zobrazování mozkové aktivity během jejich řešení. Kromě NUDZ působí také na 3. lékařské fakultě UK a ve Fyziologickém ústavu AV ČR.</description>
+    </item>
+    
+  </channel>
+</rss>

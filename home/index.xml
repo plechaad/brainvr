@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/home/</link>
+    <description>Recent content in Homes on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/about/</guid>
+      <description>O nás Naše skupina působí v Národním ústavu duševního zdraví (NUDZ) v Klecanech v rámci výzkumného programu VP3- Aplikované neurovědy a zobrazení mozku. Naše studie se orientují zejména na využití virtuálních technologií v neurobiologickém výzkumu. Cílem je vytvoření metod, které se pak uplatňují jednak v diagnostice a remediaci kognitivního deficitu u neuropsychiatrických poruch (např. schizofrenie a OCD) anebo v základním výzkumu zaměřeném na využití zobrazovacích metod (fMRI).
+S ohledem na interdisciplinární témata výzkumu je náš tým složen z psychologů, neurovědců, přírodovědců, pedagogů a samozřejmě i programátorů.</description>
+    </item>
+    
+    <item>
+      <title>Projekty</title>
+      <link>http://brainvr.cz/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tým</title>
+      <link>http://brainvr.cz/home/members/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/members/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vybrané publikace</title>
+      <link>http://brainvr.cz/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poslední publikace</title>
+      <link>http://brainvr.cz/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Příspěvky</title>
+      <link>http://brainvr.cz/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://brainvr.cz/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://brainvr.cz/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

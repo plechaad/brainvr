@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disorder on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/disorder/</link>
+    <description>Recent content in Disorder on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/disorder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OCD studie</title>
+      <link>http://brainvr.cz/project/ocd/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/ocd/</guid>
+      <description>Členové pracovní skupiny Virtuální realita v neurovědách se podílejí na projektu s názvem „Patofyziologický podklad neuronálních okruhů u OCD: Translační studie zaměřená na glutamátergní regulaci v přední cingulární kůře“. Tato studie se skládá celkem ze tří navazujících částí – první část představuje lékařské hodnocení klinického stavu pacienta s obsedantně-kompulzivní poruchou, druhá část jeho psychologické vyšetření a třetí část zahrnuje vyšetření v magnetické rezonanci. K teoretickému zaměření naší skupiny má nejblíže obsah psychologického vyšetření, během kterého u lidí s obsedantně-kompulzivní poruchou hodnotíme jejich schopnost inhibiční kontroly – zjednodušeně řečeno toho, jak jsou schopni kontrolovat a potlačovat své reakce.</description>
+    </item>
+    
+    <item>
+      <title>Vývoj tréninkových úloh ve virtuálním prostředí</title>
+      <link>http://brainvr.cz/project/vr-remediace/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vr-remediace/</guid>
+      <description>Skupina Virtuální realita v neurovědách se zaměřuje na vývoj úloh určených k remediaci kognitivních funkcí se specifickým důrazem na paměť. Úlohy jsou vytvářeny v ekologicky validním prostředí se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.
+V současné chvíli skupina vyvinula paměťovou úlohu nákupu ve virtuálním supermarketu. V prvním kroku jsme úlohu otestovali v její diagnostické podobě u skupiny chronických pacientů se schizofrenií a jejich výkon porovnali se skupinou zdravých dobrovolníků.</description>
+    </item>
+    
+  </channel>
+</rss>

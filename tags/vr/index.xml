@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/vr/</link>
+    <description>Recent content in VR on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Future Port Prague 2017</title>
+      <link>http://brainvr.cz/post/future-port/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/post/future-port/</guid>
+      <description>Skupina Virtuální realita v neurovědách prezentovala své výzkumné projekty v průběhu festivalu a konference Future Port Prague 2017, který je označován za největší přehlídku technologií budoucnosti ve střední Evropě (https://www.futureportprague.com/). Díky spolupráce s Centrem transferu technologií a Asociací virtuální a rozšířené reality (AVRAR) měla naše výzkumná skupina jedinečnou možnost představit svou výzkumnou činnost v rámci stánku, který sdílela s AVRAR.
+Členové naší výzkumné skupiny pod vedením doktorky Ivety Fajnerové prezentovali veřejnosti virtuální úlohy využívané v NUDZ k výzkumu, diagnostice a tréninku kognitivních funkcí.</description>
+    </item>
+    
+    <item>
+      <title>Vývoj tréninkových úloh ve virtuálním prostředí</title>
+      <link>http://brainvr.cz/project/vr-remediace/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vr-remediace/</guid>
+      <description>Skupina Virtuální realita v neurovědách se zaměřuje na vývoj úloh určených k remediaci kognitivních funkcí se specifickým důrazem na paměť. Úlohy jsou vytvářeny v ekologicky validním prostředí se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.
+V současné chvíli skupina vyvinula paměťovou úlohu nákupu ve virtuálním supermarketu. V prvním kroku jsme úlohu otestovali v její diagnostické podobě u skupiny chronických pacientů se schizofrenií a jejich výkon porovnali se skupinou zdravých dobrovolníků.</description>
+    </item>
+    
+    <item>
+      <title>HCENAT</title>
+      <link>http://brainvr.cz/project/hcenat-vr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/hcenat-vr/</guid>
+      <description>Projekt zahrnoval testování změn kognitivních funkcí v závoslosti na používání navigačních technologií v každodenním životě. Participanti měli za úkol dokázat své navigační schopnost v co nejpřirozenějším prostředí, zatímco jsme pozorovali jejich oční pohyby, aktivace mozkových struktur a dlouhodobě sledovali dopad na kognitivní funkce pomocí baterie neuropsychologických testů.
+V rámci projektu jsme vybudovali rozsáhlé město s 42 orientačními body. Celkem nás v Klecanech navštívilo přes 60 participantů, kteří v naší péči strávili celé dopoledne či odpoledne.</description>
+    </item>
+    
+  </channel>
+</rss>
