@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychologie on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/psychologie/</link>
+    <description>Recent content in Psychologie on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/psychologie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Czech VRfest 2018</title>
+      <link>http://brainvr.cz/post/czechvrfest-2018/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/post/czechvrfest-2018/</guid>
+      <description>Skupina virtuální reality v neurovědách se 10.-12.5 zúčastnila 2. ročníku Czech VRfestu, který byl organizován Asociací virtuální a augmentované reality (AVRAR). Vedoucí skupiny Iveta Fajnerová byla garantem sekcí MEDICÍNA a SPOLEČNOST, ve kterých zazněla témata týkající se propojení virtuální reality a duševního zdraví. Návštěvníci měli možnost si od Terezy Zikanové (NUDZ) a Honzy Hrdličky (3dsense) poslechnout přednášku o aplikaci virtuální reality ve výzkumu lidské sexuality v rámci diskuzního panelu, který organizovala Laboratoř evoluční sexuologie a psychopatologie (NUDZ).</description>
+    </item>
+    
+    <item>
+      <title>Festival Na Hlavu 2018</title>
+      <link>http://brainvr.cz/post/festivalnahlavu-2018/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/post/festivalnahlavu-2018/</guid>
+      <description>Skupina Virtuální realita v neurovědách ve spolupráci s komerčními firmami 3dsense a Xlab-Virtuix organizovala v rámci filmového festivalu Na hlavu (28.4.-29.4.2018), doprovodný program pod názvem Duševní zdraví ve virtuálním světe. Návštěvníci festivalu si tak měli možnost vyzkoušet virtuální realitu na celkem 6 stanovištích:
+1.Zachraň kočičku – Na stánku si návštěvníci mohli vyzkoušet aplikaci od firmy Xlab. Jedná se o úlohu prezentovanou ve virtuálních brýlích, kdy se hráč ocitne v nejvyšším patře mrakodrapu a jeho úkolem je nad městem projít po úzké lávce a zachránit kočku, která uvízla na jejím konci.</description>
+    </item>
+    
+  </channel>
+</rss>
