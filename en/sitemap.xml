@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-    
     <url>
     
       <xhtml:link rel="alternate" href="http://brainvr.cz/en/member/hejtmy/" hreflang="en"/>
@@ -14,7 +13,6 @@
     
   
     
-    
     <url>
     
       <xhtml:link rel="alternate" href="http://brainvr.cz/en/categories/" hreflang="en"/>
@@ -25,7 +23,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -39,20 +36,6 @@
     
   
     
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://brainvr.cz/en/tags/programmer/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://brainvr.cz/tags/programmer/" hreflang="cs"/>
-    
-      <loc>http://brainvr.cz/en/tags/programmer/</loc>
-      <lastmod>2015-02-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
     <url>
     
       <xhtml:link rel="alternate" href="http://brainvr.cz/en/publication_types/" hreflang="en"/>
@@ -64,19 +47,16 @@
     
   
     
-    
     <url>
     
       <xhtml:link rel="alternate" href="http://brainvr.cz/en/tags/" hreflang="en"/>
       <xhtml:link rel="alternate" href="http://brainvr.cz/tags/" hreflang="cs"/>
     
       <loc>http://brainvr.cz/en/tags/</loc>
-      <lastmod>2015-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
@@ -85,6 +65,18 @@
     
       <loc>http://brainvr.cz/en/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://brainvr.cz/en/tags/programmer/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://brainvr.cz/tags/programmer/" hreflang="cs"/>
+    
+      <loc>http://brainvr.cz/en/tags/programmer/</loc>
+      <lastmod>2015-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

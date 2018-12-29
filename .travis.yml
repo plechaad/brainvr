@@ -10,16 +10,14 @@ env:
     - GIT_DEPLOY_BRANCH=gh-pages # this is the target branch, replace by gh-pages for Project Pages
     - GIT_DEPLOY_USERNAME="Travis CI" # dummy name
     - GIT_DEPLOY_EMAIL=hejtmy@gmail.com # replace by your email
+    - HUGO_VERSION=0.53
 
 branches:
   only:
     - master # replace by master for Project Pages
 
-before_script:
-    - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
-    - go get -v github.com/gohugoio/hugo
-
 install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
   - rm -rf public || exit 0 # cleanup previous run
 
 script:

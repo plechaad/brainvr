@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Remediace on Virtuální realita v neurovědách</title>
+    <title>remediace on Virtuální realita v neurovědách</title>
     <link>http://brainvr.cz/tags/remediace/</link>
-    <description>Recent content in Remediace on Virtuální realita v neurovědách</description>
+    <description>Recent content in remediace on Virtuální realita v neurovědách</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://brainvr.cz/tags/remediace/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jak mohou virtuální hry trénovat mozek a paměť</title>
+      <link>http://brainvr.cz/post/elpida-2018/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/post/elpida-2018/</guid>
+      <description>Máte zájem o trénování paměti a daląích poznávacích schopností? Pokud ano, přijďte se podívat na seminář, který povede vedoucí skupiny Iveta Fajnerová a Adéla Plechatá ve spolupráci s organizací Elpida (http://elpida.cz/page.php?page=86&amp;amp;event_id=4983).
+KDY: ČT 10. 1. 2019, 14:15-15:45 KDE: Centrum Elpida - Na Strľi 40 (vedle hlavní poąty) 140 00 Praha 4
+V rámci skupiny virtuální realita v neurovědách aktuálně připravujeme sadu tréninkových her ve virtuální realitě pro aktivizaci a kognitivní trénink zejména u zdravých seniorů.</description>
+    </item>
     
     <item>
       <title>Czech VRfest 2018</title>
