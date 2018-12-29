@@ -135,7 +135,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fas"
     link = "//github.com/brainvr"
 
 # Navigation Links
