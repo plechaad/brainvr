@@ -6,11 +6,8 @@
   <div class="col-xs-12 col-md-4">
     <div id="profile">
 
-      {{ if $.Site.Params.gravatar }}
-      <div class="portrait" style="background-image: url('https://s.gravatar.com/avatar/{{ md5 $.Site.Params.email }}?s=200');"></div>
-      <meta itemprop="image" content="https://s.gravatar.com/avatar/{{ md5 $.Site.Params.email }}?s=200">
-      {{ else if $.Site.Params.avatar }}
-      <div class="portrait" style="background-image: url('{{ $.Site.BaseURL }}img/{{ $.Site.Params.avatar }}');"></div>
+      {{if $.Site.Params.avatar }}
+      <div class="portrait" style="background-image: url('{{ $.Site.BaseURL }}img/{{ $.Site.Params.avatar }}'); background-size: 100%"></div>
       <meta itemprop="image" content="{{ $.Site.BaseURL }}img/{{ $.Site.Params.avatar }}">
       {{ end }}
 
@@ -40,11 +37,11 @@
 
       <ul class="network-icon" aria-hidden="true">
         {{ range $.Site.Params.social }}
-        {{ $pack := or .icon_pack "fa" }}
+        {{ $pack := or .icon_pack "fas" }}
         <li>
-          <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
-            <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
-          </a>
+            <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
+                <i class="{{ $pack }} fa-{{ .icon }} big-icon"></i>
+              </a>
         </li>
         {{ end }}
       </ul>
