@@ -186,5 +186,5 @@ weight = 3
 [languages.cs]
   languageCode = "cs-cz"
 
-[languages.en]
-  languageCode = "en-us"
+#[languages.en]
+#  languageCode = "en-us"
