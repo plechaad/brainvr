@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studies on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/studie/</link>
+    <description>Recent content in Studies on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/studie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Navigace ve virtuálním městě</title>
+      <link>http://brainvr.cz/studie/navigace/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/studie/navigace/</guid>
+      <description>Zajímá Vás problematika navigace? Chtěli byste si ozkoušet a něco se dozvědět o eyetrackingu? Hledáme dobrovolníky do naší počítačové studie v Národním ústavu duševního zdraví v Klecanech.
+Studie trvá přibližně 2 hodiny. Její součástí je několik a počítačových testů a sada dotazníků. Vše by proběhlo v naší laboratoři v Klecanech. Datum účasti si lze rezervovat na odkazu níže. S jakýmikoliv dotazy se na nás neváhejte obrátit.
+Budeme se na Vás těšit :)</description>
+    </item>
+    
+  </channel>
+</rss>
