@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  {{ if (.Params.header.image) and (not .Params.header.image "")}}
+    <img src="{{ "/img/" | relURL }}/{{ .Params.header.image }}" class="article-banner" itemprop="image">
+    {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+  {{else}}
+    <img src="{{ "/img/headers/default-study.jpg"}}" class="article-banner" itemprop="image">
+  {{end}}
+
+  <div class="article-container">
+    <div class="pub-title">
+      <h1 itemprop="name">{{ .Title }}</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        {{ partial "share.html" . }}
+      </span>
+    </div>
+
+    {{ with .Params.external_link }}
+    <a class="btn btn-primary btn-outline" href="{{ . }}" target="_blank">{{ i18n "open_project_site" }}</a>
+    {{ end }}
+		{{ with .Params.signup_form}}
+			<a href="{{ . }}" class="btn btn-primary btn-large">Vybrat termín</a>
+		{{end}}
+		{{ with .Params.contact}}<a href="mailto:{{.}}" class="btn btn-warning btn-large">Dotázat se</a>
+		{{end}}
+    <div class="article-style" itemprop="articleBody">
+      {{ .Content }}
+		</div>
+		{{ with .Params.signup_form}}
+			<div>
+				Zapsat se do studie můžete <a href="{{ . }}" class="btn btn-primary btn-large">ZDE</a>
+			</div>
+		{{end}}
+		{{ with .Params.contact}}
+		<br>
+		<div>
+			Dotazy ohledně studie můžete své dotazy směřovat na <a href="mailto:{{.}}">{{.}}</a>
+		</div>
+		{{end}}
+
+  </div>
+</article>
+
+<div class="container">
+  {{ partial "section_pager.html" . }}
+</div>
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
