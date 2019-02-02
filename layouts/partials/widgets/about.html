@@ -32,22 +32,16 @@
         </h3>
         {{ end }}
       </div>
-
       <link itemprop="url" href="{{ $.Site.BaseURL }}">
-
       <ul class="network-icon" aria-hidden="true">
         {{ range $.Site.Params.social }}
         {{ $pack := or .icon_pack "fas" }}
         <li>
-            <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-                <i class="{{ $pack }} fa-{{ .icon }} big-icon"></i>
-              </a>
+          <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank"> <i class="{{ $pack }} fa-{{ .icon }} big-icon"></i> </a>
         </li>
         {{ end }}
       </ul>
-      <p>
-        <a href="http://forms.nudz.cz/fill/default/NyexpAibuSOWO0p" class = "btn btn-primary btn-large">Zúčastněte se výzkumu</a>
-      </p>
+      {{ partial "widgets/active_studies.html" $ }}
     </div>
   </div>
   <div class="col-xs-12 col-md-8" itemprop="description">

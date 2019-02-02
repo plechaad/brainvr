@@ -20,19 +20,15 @@
     </div>
 
     {{ with .Params.external_link }}
-    <a class="btn btn-primary btn-outline" href="{{ . }}" target="_blank">{{ i18n "open_project_site" }}</a>
-    {{ end }}
-		{{ with .Params.signup_form}}
-			<a href="{{ . }}" class="btn btn-primary btn-large">Vybrat termín</a>
-		{{end}}
-		{{ with .Params.contact}}<a href="mailto:{{.}}" class="btn btn-warning btn-large">Dotázat se</a>
-		{{end}}
+    <a class="btn btn-primary btn-outline" href="{{ . }}" target="_blank">{{ i18n "open_project_site" }}</a>{{ end }}
+		{{ with .Params.signup_form}}	<a href="{{ . }}" class="btn btn-primary btn-lg">Vybrat termín</a>{{end}}
+		{{ with .Params.contact}}<a href="mailto:{{.}}" class="btn btn-warning btn-lg">Dotázat se</a>{{end}}
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
 		</div>
 		{{ with .Params.signup_form}}
 			<div>
-				Zapsat se do studie můžete <a href="{{ . }}" class="btn btn-primary btn-large">ZDE</a>
+				Zapsat se do studie můžete <a href="{{ . }}" >ZDE</a>
 			</div>
 		{{end}}
 		{{ with .Params.contact}}

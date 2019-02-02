@@ -1,0 +1,7 @@
+<h4>Zůčastněte se výzkumu</h4>
+<ul class="list-unstyled">
+{{ range $study := (where .Data.Pages "Type" "studies") }}
+<li ><a href="{{$study.RelPermalink}}" class="btn btn-outline-primary btn-block">{{$study.Params.title}}</a></li>
+{{end}}
+</ul>
+<a href="http://forms.nudz.cz/fill/default/NyexpAibuSOWO0p" class="btn btn-info btn-lg btn-block">Stát se dobrovolníkem</a>
