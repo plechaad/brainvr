@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>http://brainvr.cz/studies/navigace/</loc>
+      <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://brainvr.cz/post/elpida-2018/</loc>
       <lastmod>2018-12-28T00:00:00+00:00</lastmod>
     </url>
@@ -342,6 +350,15 @@
     
       <loc>http://brainvr.cz/publication_types/</loc>
       <lastmod>2017-04-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://brainvr.cz/studies/</loc>
+      <lastmod>2019-02-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
