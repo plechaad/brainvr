@@ -329,6 +329,13 @@
     
     <url>
     
+      <loc>http://brainvr.cz/questionnaires/cvgeq-games/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://brainvr.cz/tags/eyetracker/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -359,6 +366,21 @@
       <loc>http://brainvr.cz/publication_types/</loc>
       <lastmod>2017-04-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://brainvr.cz/questionnaires/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://brainvr.cz/questionnaires/sbsd/</loc>
     </url>
     
   
