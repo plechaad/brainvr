@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://surveyjs.azureedge.net/1.0.68/survey.jquery.min.js"></script>
+{{ partial "navbar.html" . }}
+	<div class="top-buffer"></div>
+	<div class="article-container">
+			<h1 itemprop="name">{{ .Title }}</h1>
+			<div class="article-style" itemprop="articleBody">
+			<div id="surveyContainer"></div>
+			</div>
+	</div>
+<div class="container">
+  {{ partial "section_pager.html" . }}
+</div>
+
+<script>
+		Survey.Survey.cssType = "bootstrap";
+
+		var surveyJSON = {{.Params.surveyJSON}}
+		function sendDataToServer(survey) {
+				survey.sendResult({{.Params.resultsCode}});
+		}
+
+		var survey = new Survey.Model(surveyJSON);
+		$("#surveyContainer").Survey({
+				model: survey,
+				onComplete: sendDataToServer
+		});
+</script>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
