@@ -1,5 +1,5 @@
 +++
-title="Santa Barbara Škála Orientačních Schopností "
+title="Santa Barbara Škála Orientačních Schopností"
 
 description=""
 
