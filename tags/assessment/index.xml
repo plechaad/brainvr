@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cognition on Virtuální realita v neurovědách</title>
-    <link>http://brainvr.cz/tags/cognition/</link>
-    <description>Recent content in cognition on Virtuální realita v neurovědách</description>
+    <title>assessment on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/assessment/</link>
+    <description>Recent content in assessment on Virtuální realita v neurovědách</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
     <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://brainvr.cz/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://brainvr.cz/tags/assessment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>http://brainvr.cz/project/vr-supermarket/</guid>
       <description>Úloha Nákupu ve Virtuálním Supermarketu (ÚNVS) se zaměřuje na epizodickou paměť v kontextu reálného života. Virtuální prostředí umožňuje simulovat každodenní prostředí a zároveň mít naprostou kontrolu nad prezentovanými stimuly. Díky tomu ÚNVS představuje ekologicky validní doplněk ke standardním neuropsychologickým metodám, které bývají kritizovány pro jejich nedostatečný vztah k reálnému fungování jedince (Neisser 1978). ÚNVS simuluje nakupování, což je běžná, každodenní aktivita, která zapojuje několikeré kognitivní funkce – jako je plánování či orientace v prostoru.</description>
-    </item>
-    
-    <item>
-      <title>Vývoj tréninkových úloh ve virtuálním prostředí</title>
-      <link>http://brainvr.cz/project/vr-remediace/</link>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/project/vr-remediace/</guid>
-      <description>Skupina Virtuální realita v neurovědách se zaměřuje na vývoj úloh určených k remediaci kognitivních funkcí se specifickým důrazem na paměť. Úlohy jsou vytvářeny v ekologicky validním prostředí se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.
-V současné chvíli skupina vyvinula paměťovou úlohu nákupu ve virtuálním supermarketu. V prvním kroku jsme úlohu otestovali v její diagnostické podobě u skupiny chronických pacientů se schizofrenií a jejich výkon porovnali se skupinou zdravých dobrovolníků.</description>
     </item>
     
   </channel>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://brainvr.cz/tags/remediation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Úloha Nákupu ve Virtuálním Supermarketu</title>
+      <link>http://brainvr.cz/project/vr-supermarket/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vr-supermarket/</guid>
+      <description>Úloha Nákupu ve Virtuálním Supermarketu (ÚNVS) se zaměřuje na epizodickou paměť v kontextu reálného života. Virtuální prostředí umožňuje simulovat každodenní prostředí a zároveň mít naprostou kontrolu nad prezentovanými stimuly. Díky tomu ÚNVS představuje ekologicky validní doplněk ke standardním neuropsychologickým metodám, které bývají kritizovány pro jejich nedostatečný vztah k reálnému fungování jedince (Neisser 1978). ÚNVS simuluje nakupování, což je běžná, každodenní aktivita, která zapojuje několikeré kognitivní funkce – jako je plánování či orientace v prostoru.</description>
+    </item>
     
     <item>
       <title>REMEDIACE EPIZODICKÉ PAMĚTI</title>
