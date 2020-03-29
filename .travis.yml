@@ -29,6 +29,6 @@ deploy:
   target-branch: ${GIT_DEPLOY_BRANCH}
   github_token: $GITHUB_TOKEN
   keep_history: true
-  local_dir: ../${GIT_DEPLOY_DIR}
+  local_dir: ${GIT_DEPLOY_DIR}
   on:
     branch: master
