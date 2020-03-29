@@ -21,7 +21,7 @@ install:
 
 script:
   - hugo
-  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "brainvr.cz" > ../${GIT_DEPLOY_DIR}/CNAME; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "brainvr.cz" > ${GIT_DEPLOY_DIR}/CNAME; fi'
 
 deploy:
   provider: pages
