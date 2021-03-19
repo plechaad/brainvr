@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-07-10"
+date = "2016-04-18"
 
 # Project title.
 fullName = "Jiří Motýl"
