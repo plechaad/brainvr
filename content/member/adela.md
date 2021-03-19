@@ -6,7 +6,7 @@ date = "2016-04-10"
 fullName = "Adéla Plechatá"
 
 # Project summary to display on homepage.
-summary = "Psycholog, neurovědec."
+summary = "Psycholog, neurovědec"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "members/thumbs/adela.jpg"
@@ -22,6 +22,11 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
+
+[[education]]
+    degree = "Výzkumná stáž"
+    institution = "University of Copenhagen"
+    year = "September - October 2020"
 
 [[education]]
     degree = "Výzkumná stáž"
@@ -46,11 +51,10 @@ math = false
     icon_pack = "fa"
     link = "mailto:adela.plechata@gmail.com"
 
-
 +++
 
-Do skupiny jsem se zapojila v srpnu roku 2016. Mým hlavním zájmem bylo vytvoření ekologicky validní úlohy ve virtuální realitě určené k tréninku kognitivního deficitu u pacientů se schizofrenií. Za pomoci Václava Sahuly a dalších členů týmu byla vytvořena simulace nákupu ve virtuálním supermarketu. Následovaly dvě pilotní studie, ve kterých jsem úlohu testovala u zdravých dobrovolníků v její diagnostické obdobě. 
+Do skupiny jsem se zapojila v srpnu roku 2016. Mým hlavním zájmem bylo vytvoření ekologicky validní úlohy ve virtuální realitě určené k tréninku kognitivního deficitu u pacientů se schizofrenií. Úlohu jsem validizovala u zdravých dobrovolníků a u pacientů se schizofrenií. 
 
-V současné chvíli testuji úlohu u pacientů se schizofrenií, a to jak v její diagnostické, tak remediační variantě. Data budu dále porovnávat s výsledky srovnávací skupiny zdravých dobrovolníků.
-
-Nyní je mým největším zájmem získat data od co nejvyššího počtu pacientů a následnou analýzou završit svou diplomovou práci. V Národním ústavu duševního zdraví bych se ráda dále věnovala kognici a virtuální realitě v rámci PhD studia. Kromě virtuální reality se věnuji psychometrii a tvorbě osobnostních dotazníků a výkonových testů. 
+V rámci svého PhD studia jsem se věnovala možnostem využití virtuální reality ke kognitivní remediaci u neuropsychiatrických pacientů. 
+V rámci svého GAUK projektu jsem porovnávala kognitivní výkon v imerzivní a neimerzivní virtuální realitě u zdravých seniorů a mladých dospělých a získala normativní data od více než 100 respondentů. 
+Ve spolupráci s Psychoterapeutickým stacionářem pro psychotické pacienty v Karviné jsem sledovala efektivitu a využitelnost úloh ve virtuálním prostředí ke kognitivní remediaci u pacintů se schizofrenií a depresí.

@@ -6,7 +6,7 @@ date = "2015-02-10"
 fullName = "Lukáš Hejtmánek"
 
 # Project summary to display on homepage.
-summary = "Psycholog, programátor, designér, hračička."
+summary = "neurovědec, programátor, data analytik"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "members/thumbs/hejtmy.jpg"
