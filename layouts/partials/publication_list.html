@@ -5,7 +5,7 @@
         <ul class="fa-ul">
             {{ range .links }}
                 {{ range where $.Site.Pages "URL" ($.RelRef .) }}
-                    <li><a href = {{ .RelPermalink }}>{{ .Title }}</a></li>
+                    <li><a href = {{.RelPermalink}}>{{ .Title }}</a></li>
                 {{ end }}
             {{ end }}
         </ul>

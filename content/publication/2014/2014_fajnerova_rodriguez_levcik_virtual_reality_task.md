@@ -13,7 +13,7 @@ math = true
 publication_types = ["2"]
 publication = "Frontiers in Behavioral Neuroscience, May 2014, Volume 8, Article 157"
 publication_short = "Frontiers in Behavioral Neuroscience, 2014"
-selected = true
+selected = false
 
 url_pdf_local = "2014/2014_fajnerova_rodriguez_levcik_virtual_reality_task.pdf"
 
