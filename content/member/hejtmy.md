@@ -41,6 +41,11 @@ caption = "My table on a busy day :smile:"
     institution = "UC Davis, US"
     year = "2017-2018"
 
+[[eductaion]]
+    degree = "Ph.D. neurovědy"
+    institution = "Fyziologický ústav AV ČR"
+    year = "2015-2020"
+
 [interests]
   interests = [
       "Paměť",
@@ -57,7 +62,7 @@ caption = "My table on a busy day :smile:"
 [[social]]
     icon = "globe"
     icon_pack = "fa"
-    link = "neuro-coder.com"
+    link = "http://hejtmy.com"
 
 [[social]]
     icon = "github"
@@ -65,8 +70,6 @@ caption = "My table on a busy day :smile:"
     link = "//github.com/hejtmy"
 +++
 
-Ve skupině jsem začal pracovat v roce 2015. I přes svou psychologickou průpravu jsem začal fungovat jako jeden z programátorů rozsáhlé simulace virtuálního města. Tvorba zabrala takřka rok a ve městě jsme posléze několik měsíců sbírali data od desítek doprovolníků. Mé povinnosti přešly z programování experimentů k programování analýz behaviorálních dat, eyetrackeru a plánování nových projektů. 
+Ve skupině jsem začal pracovat v roce 2015. I přes svou psychologickou průpravu jsem začínal na projektu budujícím rozsáhlou simulaci virtuálního města, studujího dopady používání GPS na prostorovou paměť. V BrainVR týmu funguji v současné době především jako data analytik se zaměřením na behaviorální a neurální data a věnuji se projektům studujícím užití virtuální reality v psychiatrii.
 
-V týmu nyní funguji jako neplacená technická podopora, programátor včeho od webů po fMRI synchronizace a ten "týpek", co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného. 
-
-Krom programování v Národním ústavu duševního zdraví pracuji na svém PhD v Akademii věd a po večerech vyučuji psychologii na střední škole.
+V akademickém roce 2017-18 jsem absolvoval výzkumnou stáž v Kalifornii, kde jsem zkoumal přenos prostorové paměti z virtuální reality do skutečního světa. V roce 2020 jsem dokončil svůj doktorát na Akademii Věd.
