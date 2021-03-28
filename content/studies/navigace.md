@@ -3,7 +3,7 @@ title = "Navigace ve virtuálním městě"
 date =  "2019-02-02"
 contact = "lukas.hejtmanek@nudz.cz"
 signup_form = "https://brainvr-navigace.youcanbook.me/"
-active=true
+active = false
 +++
 
 Zajímá Vás problematika navigace? Chtěli byste si ozkoušet a něco se dozvědět o eyetrackingu (sledování očních pohybů)? Hledáme dobrovolníky (18-50 let) do naší navigační studie. 
